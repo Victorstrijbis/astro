@@ -197,3 +197,5 @@ im = cv2.filter2D(im_final, -1, kernel)
 cv2.imwrite(path + 'output1_mean.png', im)
 
 # %%
+
+print('bladibla')
